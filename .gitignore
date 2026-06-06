@@ -23,3 +23,20 @@ go.work.sum
 
 # env file
 .env
+.env.*
+
+# Built binaries
+/email-verifier
+/GoEmailVerifierTool
+/GoEmailVerifierTool.exe
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
